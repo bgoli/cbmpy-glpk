@@ -13,10 +13,10 @@ and run::
 
  ./install_glpk.sh
 
-Note this script is designed for building containers and will remove 
+Note this script is designed to be used for building containers and will remove 
 any installed version of GLPK (apt-get purge) and build and install 
 the older version needed for PyGLPK.
 	
 You have been warned, no warranty of any kind assumed or otherwise, use at own risk!
  
-@bgoli
+- bgoli July 2016
